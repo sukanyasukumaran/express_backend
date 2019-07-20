@@ -1,0 +1,22 @@
+{
+  "name": "mock_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukanyasukumaran/express_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukanyasukumaran/express_backend/issues"
+  },
+  "homepage": "https://github.com/sukanyasukumaran/express_backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
